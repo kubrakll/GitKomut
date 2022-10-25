@@ -30,6 +30,30 @@ git add ilkdefter.txt**<br>
 
 **commit yapma:** git commit -m "ornek ilkdefter"<br>
 
+**git add .** : tüm işlemleri kayıt edecektir.<br>
+
+
+**git add .** : tüm işlemleri kayıt edecektir.<br>
+
+** git log** : tüm kayıtları görebiliriz (mesajları log)
+<br>
+*git add diyince commitlenmiş olmuyor ayrı olarak commit etmek gerekiyor.*<br>
+
+git'e eklemek istemediğimiz dosyaları nasıl yapabiliriz:<br>
+- touch .gitignore ile bir gitignore dosyayı oluşturulur. <br>
+- <br>
+
+
+**HEAD** : git içerisinde hangi konumda olduğumuzu gösteriyor. Genelde son commiti gösterir.<br>
+
+**git merge** yapmak demek iki işi birbiri ile birleştirmek demek.<br>
+
+güncel branch leri görmek için : **git branch** <br>
+
+yeni bir branch oluşturmak istersek; **git branch feature(isim)** <br>
+
+branch değiştirmek istersek : **git switch feature **<br>
+
 
 
 
