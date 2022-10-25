@@ -3,3 +3,7 @@ python kitabı
 id:1
 
 denemeli kitap
+
+
+
+ikinci kısım yazıldı
