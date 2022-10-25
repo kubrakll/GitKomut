@@ -55,6 +55,7 @@ yeni bir branch oluşturmak istersek; **git branch feature(isim)** <br>
 branch değiştirmek istersek : **git switch feature **<br>
 
 
-iki brach'i birleştirmek istersek; **git merge feature **
+iki brach'i birleştirmek istersek; **git merge feature **<br>
 
+**Fast-Forward Merge**: Feature branch’iniz master’a merge olacağı anda eğer master üzerinde bir değişiklik (commit) olmamışsa, git varsayılan olarak master hattının son commit hash’i olarak, feature branch’in hash’ini alır. Bu duruma Fast-Forward Merging denir.<br>
 
