@@ -55,6 +55,6 @@ yeni bir branch oluşturmak istersek; **git branch feature(isim)** <br>
 branch değiştirmek istersek : **git switch feature **<br>
 
 
-
+iki brach'i birleştirmek istersek; **git merge feature **
 
 
