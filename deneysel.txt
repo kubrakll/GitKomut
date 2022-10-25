@@ -1,1 +1,4 @@
 feature için açtık
+
+
+ikinci kısmı yazdım feature
