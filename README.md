@@ -64,6 +64,6 @@ iki brach'i birleştirmek istersek; **git merge feature **<br>
 
 **Git Push -U Origin Main(GeçErli Master)**<br>
 
-**Bu Adimdan Sonra Giriş Ekrani Gelecektir. **<br>
+**Bu Adimdan Sonra Giriş Ekrani Gelecektir**<br>
 
 
