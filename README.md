@@ -60,10 +60,10 @@ iki brach'i birleştirmek istersek; **git merge feature **<br>
 **Fast-Forward Merge**: Feature branch’iniz master’a merge olacağı anda eğer master üzerinde bir değişiklik (commit) olmamışsa, git varsayılan olarak master hattının son commit hash’i olarak, feature branch’in hash’ini alır. Bu duruma Fast-Forward Merging denir.<br>
 
 
-** Git Remote Add Origin(Isim DeğIşEbilir) Link(Repo Linki) <br>
+**Git Remote Add Origin(Isim DeğIşEbilir) Link(Repo Linki)**<br>
 
-Git Push -U Origin Main(GeçErli Master) <br>
+**Git Push -U Origin Main(GeçErli Master)**<br>
 
-Bu Adimdan Sonra Giriş Ekrani Gelecektir. <br>**
+**Bu Adimdan Sonra Giriş Ekrani Gelecektir. **<br>
 
 
