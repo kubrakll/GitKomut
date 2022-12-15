@@ -1,3 +1,13 @@
+Sırayla;
+- git init
+- git add .
+- git commit -m "message"
+- git branch branchname
+- git remote <command> <remote_name> <remote_URL> git remote add origin https://github.com/kullanıcı-adınız/repository-adınız.git
+- git push origin branchname
+
+
+
 **pwd :** nerde olduğumuzu gösteren komut  <br>
 **cd Desktop** : cd buraya git demek yani masaüstü klasörüne girer.<br>
 **cd .. :** yapar isek bir önceki klasöre geri gel demek<br>
@@ -29,9 +39,6 @@ sorgulama : $ git config --global user.email<br>
 git add ilkdefter.txt**<br>
 
 **commit yapma:** git commit -m "ornek ilkdefter"<br>
-
-**git add .** : tüm işlemleri kayıt edecektir.<br>
-
 
 **git add .** : tüm işlemleri kayıt edecektir.<br>
 
